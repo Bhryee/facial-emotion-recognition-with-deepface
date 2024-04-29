@@ -2,8 +2,8 @@
 Bu repository, DeepFace kütüphanesi kullanılarak gerçekleştirilen gerçek zamanlı duygu analizini kapsar.
 
 ## Gereksinimler 
--DeepFace
--OpenCV
+- DeepFace
+- OpenCV
 
 ## Gereksinimleri aşağıdaki pip komutu ile yükleyebilirsiniz:
 ```bash
