@@ -1,4 +1,4 @@
-## Real Time Face Emotion Recegnition 
+# Real Time Face Emotion Recognition 
 Bu repository, DeepFace kütüphanesi kullanılarak gerçekleştirilen gerçek zamanlı duygu analizini kapsar.
 
 ## Gereksinimler 
